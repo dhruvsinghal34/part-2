@@ -1,0 +1,36 @@
+h1{
+    color:blue;
+    
+}
+h2{
+    color:orange;
+    
+}
+h3{
+    color:red;
+}
+h4{
+    color:brown;
+    
+}
+h5{
+    color:black;
+   
+}
+.header{
+    background-color: rgb(243, 220, 17);
+    display:flex;
+    justify-content:center;
+}
+
+.img{
+    background-color: khaki;
+    display:flex;
+    justify-content:center;
+}
+
+.footer{
+    background-color:khaki;
+    display:flex;
+    justify-content:space-between;
+}
